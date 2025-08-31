@@ -1,0 +1,1 @@
+https://media.sketchfab.com/models/ab3e99facbdb4d9d8661d3f07815638e/thumbnails/2d916b3cd3c4462dafd72e8b144b6553/3b1ee1f98ef246f3855680594767ffbe.jpeg

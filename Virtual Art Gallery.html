@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Virtual Art Gallery</title>
+  <link rel="stylesheet" href="Virtual Art Gallery.css">
+</head>
+<body>
+  <div class="gallery-container">
+    <h1>🎨 Virtual Art Gallery</h1>
+
+    <!-- Artwork Display -->
+    <div class="artwork-display">
+      <img id="artImage" src="artworks/art1.jpg" alt="Artwork">
+      <p id="artTitle">Artwork Title</p>
+      <p id="artDesc">Artwork Description</p>
+    </div>
+
+    <!-- Navigation Controls -->
+    <div class="controls">
+      <button onclick="prevArtwork()">⬅ Prev</button>
+      <button onclick="nextArtwork()">Next ➡</button>
+      <button onclick="zoomArtwork()">🔍 Zoom</button>
+    </div>
+  </div>
+
+  <script src="Virtual Art Gallery.js"></script>
+</body>
+</html>
